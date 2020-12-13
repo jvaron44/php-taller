@@ -1,4 +1,4 @@
 # php-taller
 
-Dailebrim Morales Cuellar
+Dailebrim Morales Cuellar // 
 Jonathan Varon Granados
